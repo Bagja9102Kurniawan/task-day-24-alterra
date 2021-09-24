@@ -2,6 +2,8 @@ package main
 import (
 	"fmt"
 )
+var nama string
 func main () {
-	fmt.Println("Halo nama saya bagja")
+	fmt.Scanln(&nama)
+	fmt.Println("Halo nama saya", nama)
 }
