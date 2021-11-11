@@ -1,2 +1,2 @@
-# task-day-24-alterra
+# task-git-alterra
 here i will do basic git
